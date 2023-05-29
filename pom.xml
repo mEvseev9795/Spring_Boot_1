@@ -11,7 +11,7 @@
     <groupId>ru.netology</groupId>
     <artifactId>Spring_Boot_1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>JavaClo_1_Spring_Boot</name>
+    <name>Spring_Boot_1</name>
     <description>Spring_Boot_1</description>
     <properties>
         <java.version>11</java.version>
